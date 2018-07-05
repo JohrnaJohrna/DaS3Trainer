@@ -1,0 +1,13 @@
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\bin\Release\CreateThreadTest1.exe.config
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\bin\Release\CreateThreadTest1.exe
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\bin\Release\CreateThreadTest1.pdb
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\bin\Release\en\CreateThreadTest1.resources.dll
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\obj\Release\CreateThreadTest1.csprojAssemblyReference.cache
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\obj\Release\DaS3App.DaS3App.resources
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\obj\Release\CreateThreadTest1.Properties.Resources.resources
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\obj\Release\DaS3App.DaS3App.en.resources
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\obj\Release\CreateThreadTest1.csproj.GenerateResource.cache
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\obj\Release\CreateThreadTest1.csproj.CoreCompileInputs.cache
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\obj\Release\en\CreateThreadTest1.resources.dll
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\obj\Release\CreateThreadTest1.exe
+C:\Users\Даниил-Пк\Documents\DaS3-Tester-App-master\DaS3Trainer\obj\Release\CreateThreadTest1.pdb
